@@ -1136,16 +1136,16 @@ QUEST_20150317_001135	$O Rei louvou as pessoas que causaram este milagre com seu
 QUEST_20150317_001136	$No dia que a estátua foi finalmente completada, {nl}alguma coisa miraculosa aconteceu enquanto o Rei e Aiste foram juntos fazer a primeira oferenda. {nl}Em volta da estátua brotaram moedas - todas as moedas que foram perdidas pelos #pending Fedimians até aquele momento.
 QUEST_20150317_001137	$Após um debate caloroso, o povo de Fedimian decidiram não acumular suas moedas perdidas. {nl}Em vez disso, eles pediram para o Rei coletar todas elas e distribuir entre os pobres do Reino. {nl}O Rei prontamente concordou, e deu a ordem para gravar este lindo evento na história do Reino.
 QUEST_20150317_001138	$Mesmo agora, ninguém sabe quando ou como o misterioso fenômeno de Fedimian começou, {nl}mas todos sabem quando, como, e quem ajudou a desvendar o mistério. {nl}Foi através da bondade de Aiste e das pessoas que a ajudaram, e também através da graça da Deusa, que o mistério chegou ao fim.
-QUEST_20150317_001139	
-QUEST_20150317_001140
-QUEST_20150317_001141
-QUEST_20150317_001142
-QUEST_20150317_001143
-QUEST_20150317_001144
-QUEST_20150317_001145
-QUEST_20150317_001146
-QUEST_20150317_001147
-QUEST_20150317_001148
+QUEST_20150317_001139	O jogador de Klaipeda
+QUEST_20150317_001140 {memo X}O Jogador de Klaipeda {nl}~Um conto~
+QUEST_20150317_001141 Na cidade de Klaipeda, uma vez viveu um homem chamado Modestas. {nl}Ele era um homem bom e honesto - mas tinha um grande defeito que todos os seus amigos e familiares se preocupavam, especiamente sua esposa. {nl}Modestas não era preguiçoso nem esperto nem tão tolo. {nl}Ele não bebia ou entrava repetidamente em brigas. Ele tinha apenas um defeito, e era o amor em apostar. 
+QUEST_20150317_001142 Durante o dia, Modestas trabalharia duro e nunca se deixaria passar fome - mas sempre que ganhava mais do que precisava, ele apostaria. {nl}A esposa sempre tentava poupar esse dinheiro, mas nem uma moeda extra ia em direção a sua casa.
+QUEST_20150317_001143 Sempre que ela podia, a mulher de Modestas iria frequentemente ao santuário rezar para a imagem da Deusa. {nl}Mas Modestas continuava com seus maus hábitos, e as pessoas ao seu redor ficavam cada vez mais preocupados. {nl}Apesar de tudo, a mente de um apostador pensaria, 'Hoje pode ser pouco, mas amanhã poderia ser muito!' {nl}E assim os dias passaram, sempre os mesmos, até um dia peculiar.
+QUEST_20150317_001144 Como na maioria dos seus dias, Modestas estava andando para casa depois de apostar seu dinheiro excedente. {nl}Ele estava andando através dos bosques de Siauliai em direção a Klaipeda quando viu uma estranha, velha mulher na estrada.
+QUEST_20150317_001145 Essa mulher parecia não só velha e frágil, mas tinha uma aura debilitante ao seu redor. {nl}Ela estava agindo com estranheza, como se estivesse em pensamentos profundos ou obssecada em seja lá o que estivesse fazendo. {nl}Modestas pensou em somente ignorar a mulher e passar por ela. Nada teria acontecido se ele fizesse isso, {nl}mas a curiosidade levou a melhor sobre ele.
+QUEST_20150317_001146 Para ser preciso, o que realmente chamou sua atenção sobre a mulher foi o que ela tinha nas mãos. {n]}Ouro. A mulher parecia estar obcecada em duas peças de ouro, fazendo algo com elas. {nl}Incapaz de ouvir seus murmúrios, Modestas se atraiu para mais perto da estranha mulher.
+QUEST_20150317_001147 {memo X}Sobre o tilintante som do ouro, a mulher murmurou. {nl}'Se essas duas peças de ouro podessem casar-se, o bebê ouro me faria rica... mas não há vida nestas coisas...' Modestas ouviu aquelas palavras, e decidiu comentar. {nl}'Este ouro não vai fazer de você rica sozinho, então coloque ele em algo que valha a pena. {nl}Você realmente pensa que resmungar para o ouro vai fazer algo acontecer?'
+QUEST_20150317_001148 {memo X}A velha mulher falou calmamente, 'Por que não? Se desse jeito der frutos, assim será seguro e salvo.'  
 QUEST_20150317_001149
 QUEST_20150317_001150
 QUEST_20150317_001151
